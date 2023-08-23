@@ -1,2 +1,2 @@
 # fccportfolio Dummy Website.
-With Navbar and Footer. 
+using Html and Css 
